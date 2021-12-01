@@ -82,7 +82,7 @@
         <junit haltonerror="true" haltonfailure="true">
             <classpath refid="classpath.test" />
             <formatter type="brief" usefile="false" />
-            <test name="calculatricejenkins.CalculatriceJenkinsTest" />
+            
         </junit>
         <!-- Empty placeholder for easier customization. -->
         <!-- You can override this target in the ../build.xml file. -->
